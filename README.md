@@ -1,21 +1,17 @@
-MIT License
+## ⚠️ Disclaimer
 
-Copyright (c) 2026 SerowSour
+This project is provided for educational and practical purposes only.  
+While the script is designed to assist with translating and repairing YAML files,  
+**I do not guarantee that it will work correctly in every situation** or with every plugin.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+By using this tool, you agree to the following:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- I am **not responsible** for any errors, corrupted files, misconfigurations,  
+  or unexpected behavior caused by the script.
+- You use this software **at your own risk**.
+- Always create a **backup** of your original files before running the script.
+- The script is provided “AS IS” under the MIT License, without any warranty.
+- If you modify or redistribute the code, you must respect the terms of the MIT License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+If you encounter issues, feel free to open an issue or contribute improvements  
+through pull requests on GitHub.
