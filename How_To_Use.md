@@ -12,7 +12,7 @@ Basic usage:
  
      python translate_serowsour.py -i input.yml -l it
 
- Optional arguments:
+Optional arguments:
  
    -o FILE       Specify a custom output file
    
@@ -21,6 +21,7 @@ Basic usage:
    -nobackup     Disable automatic backup creation
 
  Example:
+       
         python translate_serowsour.py -i en_US.yml -l it
 
  Output:
